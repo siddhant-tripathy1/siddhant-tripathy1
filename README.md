@@ -35,4 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-tripathy1&" alt="siddhant-tripathy1" /></p>
 ## Added snake eating my contributions
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/siddhant-tripathy1/siddhant-tripathy1/blob/output/github-contribution-grid-snake.gif)
